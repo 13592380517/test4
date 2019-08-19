@@ -1,4 +1,4 @@
-package com.yd.zy.emaildemo.controller;
+﻿package com.yd.zy.emaildemo.controller;
 
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,7 +16,7 @@ import javax.mail.internet.MimeMessage;
 import java.io.File;
 import java.util.Date;
 import java.util.logging.Logger;
-
+//
 @RestController
 public class MailController {
 
